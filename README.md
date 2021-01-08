@@ -1,4 +1,4 @@
-# 2-Tic-Tac-Toe-Java-version-
+# 2-Tic Tac Toe with Minimax in Java
 
 SECOND TECH CLUB PROJECT:
 
