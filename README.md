@@ -28,7 +28,7 @@ Team A:
 You will be working on the Minimax algorithm. Your goal is to make a method/function that calculates the best move to take by using the String array “moves” and/or the win(String player, String[] positionMoves) from Team B. After calculating the best move, you will call the move(String player, int position) with the player set as “O” and the position as the best move your calculated.
 
 
-Help resources: The Coding Train
+Help resources:[The Coding Train](https://www.youtube.com/watch?v=trKjYdBASyQ&t)
 
 
 Team B:
